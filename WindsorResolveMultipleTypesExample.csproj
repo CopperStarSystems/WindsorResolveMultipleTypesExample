@@ -61,6 +61,9 @@
     <Compile Include="Greeters\FormalGreeter.cs" />
     <Compile Include="GreeterConsumer.cs" />
     <Compile Include="Greeters\IGreeter.cs" />
+    <Compile Include="Greeters\JerryLewisGreeter.cs" />
+    <Compile Include="Greeters\ReallyLoudGreeter.cs" />
+    <Compile Include="Greeters\RepeaterGreeter.cs" />
     <Compile Include="IGreeterConsumer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
