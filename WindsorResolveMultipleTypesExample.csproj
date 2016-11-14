@@ -41,8 +41,9 @@
       <HintPath>packages\Castle.Windsor.3.3.0\lib\net45\Castle.Windsor.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="CopperStarSystems.WindsorHelpers">
-      <HintPath>..\CopperStarSystems.WindsorHelpers\CopperStarSystems.WindsorHelpers\bin\Release\CopperStarSystems.WindsorHelpers.dll</HintPath>
+    <Reference Include="CopperStarSystems.WindsorHelpers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>ExternalDependencies\CopperStarSystems.WindsorHelpers.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
